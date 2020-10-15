@@ -6,17 +6,17 @@ Original Tetris(RU) game implemented in pure bash.
 Added Russian Language to this repo: https://github.com/kt97679/tetris
 
 
-Original Tetris:
-&nbsp;
+### Original Tetris:
+
 ![Original Tetris](screenshots/original-tetris-dvk-screenshot.png)
 
 
-Bash Tetris With Cool-Retro-Term:
-&nbsp;
+### Bash Tetris With Cool-Retro-Term: 
+
 ![](screenshots/retro-term.png)
 
 
-##Usage
+## Usage
 
 Run this for executing in current command line.
 
