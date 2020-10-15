@@ -469,6 +469,7 @@ at_exit() {
     kill $ticker_pid                             # let's kill ticker process ...
     xyprint $GAMEOVER_X $GAMEOVER_Y "ИГРА ОКОНЧЕНА!"
     echo -e "$screen_buffer"                     # ... print final message ...
+    read;
     show_cursor
     stty $stty_g                                 # ... and restore terminal state
 }
